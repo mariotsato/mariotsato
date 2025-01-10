@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mariotsato
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently studying master's in computer science
-- 📫 How to reach me: mariotsato.wb@gmail.com
+- 📫 How to reach me: linkedin.com/mariotsato
 
 <!---
 mariotsato/mariotsato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
